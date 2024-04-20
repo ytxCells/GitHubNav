@@ -1,2 +1,11 @@
-# GitHub-selected
+# GitHub项目精选
+## 简介
 GitHub项目精选：挖掘优质开源项目，帮助用户快速检索，提升知识技能。
+
+如果这个仓库对你有帮助，欢迎star
+
+## 内容
+获取更好的阅读体验[官网](https://github.1nav.top)
+
+
+
