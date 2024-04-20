@@ -1,5 +1,9 @@
-![](https://github.1nav.top/wp-content/uploads/2024/03/githun%E5%AF%BC%E8%88%AA%E6%A0%8F.png)
-# GitHub项目精选
+
+<p align="center">
+  <img width="300px" src="https://github.1nav.top/wp-content/uploads/2024/03/githun%E5%AF%BC%E8%88%AA%E6%A0%8F.png">
+</p>
+
+
 ## 简介
 GitHub项目精选：挖掘优质开源项目，帮助用户快速检索，提升知识技能。
 
