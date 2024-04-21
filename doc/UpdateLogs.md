@@ -1,3 +1,16 @@
+### 2024-04-21
+* 新增开源项目：[语音识别转文字工具](https://github.1nav.top/sites/293.html)
+* 新增开源项目：[GitHubDaily](https://github.1nav.top/sites/292.html)
+* 新增开源项目：[程序员如何优雅的挣零花钱？](https://github.1nav.top/sites/291.html)
+* 新增开源项目：[一个人企业方法论](https://github.1nav.top/sites/288.html)
+
+### 2024-04-20
+
+* 新增开源项目：[Hello 算法](https://github.1nav.top/sites/265.html)
+* 新增开源项目：[Squoosh](https://github.1nav.top/sites/283.html)
+* 新增开源项目：[洛雪音乐助手移动版](https://github.1nav.top/sites/274.html)
+* 新增开源项目：[洛雪音乐助手桌面版](https://github.1nav.top/sites/269.html)
+
 ### 2024-04-17
 
 * 新增开源项目：[OpenVoice](https://github.1nav.top/sites/259.html)
