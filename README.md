@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="300px" src="https://github.1nav.top/wp-content/uploads/2024/03/githun%E5%AF%BC%E8%88%AA%E6%A0%8F.png">
+  <img width="300px" src="https://github.1nav.top/wp-content/uploads/2024/04/1713878598-logo-black.png">
 </p>
 
 

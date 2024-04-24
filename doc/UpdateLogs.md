@@ -1,3 +1,24 @@
+### 2024-04-24
+
+* 新增开源项目：[it-tools](https://github.1nav.top/sites/335.html)
+* 新增开源项目：[Unciv](https://github.1nav.top/sites/333.html)
+* 新增开源项目：[open-java](https://github.1nav.top/sites/332.html)
+* 新增开源项目：[jumpy](https://github.1nav.top/sites/329.html)
+* 新增开源项目：[kys-cpp](https://github.1nav.top/sites/327.html)
+* 新增开源项目：[Mario-Kart-3.js](https://github.1nav.top/sites/324.html)
+* 新增开源项目：[AsPoem](https://github.1nav.top/sites/322.html)
+* 新增开源项目：[无名杀](https://github.1nav.top/sites/318.html)
+* 新增开源项目：[HelloGitHub](https://github.1nav.top/sites/316.html)
+
+### 2024-04-23
+
+* 新增开源项目：[油猴](https://github.1nav.top/sites/310.html)
+
+### 2024-04-22
+
+* 新增开源项目：[Plasmo](https://github.1nav.top/sites/297.html)
+* 新增开源项目：[暴力猴](https://github.1nav.top/sites/305.html)
+
 ### 2024-04-21
 * 新增开源项目：[语音识别转文字工具](https://github.1nav.top/sites/293.html)
 * 新增开源项目：[GitHubDaily](https://github.1nav.top/sites/292.html)
